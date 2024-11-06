@@ -2,7 +2,7 @@
 ![alt text](1707563623564.jpeg)
 
 
-###Resume
+### Resume
 ## Contact Information
 - **Email:** johndoe@example.com
 - **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
