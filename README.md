@@ -3,7 +3,7 @@
 
 
 # Resume
-- ** Pavan Kumar
+- Pavan Kumar
 - 1MS22CS101
 
 
