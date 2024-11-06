@@ -4,9 +4,9 @@
 
 # Resume
 ## Contact Information
-- **Email:** johndoe@example.com
-- **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
-- **GitHub:** [github.com/johndoe](https://github.com/johndoe)
+- **Email:** abd@example.com
+- **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/abd)
+- **GitHub:** [github.com/johndoe](https://github.com/abd)
 - **Phone:** (123) 456-7890
 
 ## Objective
