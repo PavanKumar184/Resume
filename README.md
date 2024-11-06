@@ -4,8 +4,8 @@
 
 # Resume
 
-Pavan Kumar M
-1MS22CS101
+-Pavan Kumar M
+-1MS22CS101
 
 
 ## Contact Information
