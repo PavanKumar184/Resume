@@ -2,6 +2,7 @@
 ![alt text](1707563623564.jpeg)
 
 
+###Resume
 ## Contact Information
 - **Email:** johndoe@example.com
 - **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
@@ -9,6 +10,6 @@
 - **Phone:** (123) 456-7890
 
 ## Objective
-A highly motivated software developer with 5+ years of experience looking for opportunities to work in an
+A highly motivated software developer with 5+ years of experience looking for opportunities to work in an company.
 
 
